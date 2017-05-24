@@ -1,5 +1,4 @@
 # Worlds-Newspapers
-02 - World's Newspapers <br />
 Språk/API: Java / Android, JSON, GSON Firebase, Google Play Services.
 
 Beskrivning: Ett nyhetsprogram. Programmet använder sig av listor med över 12.000
